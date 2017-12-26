@@ -15,6 +15,17 @@
 		802604C71F5681E60048A9E7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 802604C51F5681E60048A9E7 /* LaunchScreen.storyboard */; };
 		802604D21F5681E60048A9E7 /* wodexneTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 802604D11F5681E60048A9E7 /* wodexneTests.m */; };
 		802604DD1F5681E60048A9E7 /* wodexneUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 802604DC1F5681E60048A9E7 /* wodexneUITests.m */; };
+		802604F41F5681FA0048A9E7 /* 11.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 802604EB1F5681FA0048A9E7 /* 11.jpeg */; };
+		802604F51F5681FA0048A9E7 /* 12.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 802604EC1F5681FA0048A9E7 /* 12.jpeg */; };
+		802604F61F5681FA0048A9E7 /* 13.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 802604ED1F5681FA0048A9E7 /* 13.jpeg */; };
+		802604F71F5681FA0048A9E7 /* 14.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 802604EE1F5681FA0048A9E7 /* 14.jpeg */; };
+		802604F81F5681FA0048A9E7 /* 15.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 802604EF1F5681FA0048A9E7 /* 15.jpeg */; };
+		802604F91F5681FA0048A9E7 /* 16.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 802604F01F5681FA0048A9E7 /* 16.jpeg */; };
+		802604FA1F5681FA0048A9E7 /* 17.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 802604F11F5681FA0048A9E7 /* 17.jpeg */; };
+		802604FB1F5681FA0048A9E7 /* 18.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 802604F21F5681FA0048A9E7 /* 18.jpeg */; };
+		802604FC1F5681FA0048A9E7 /* 19.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 802604F31F5681FA0048A9E7 /* 19.jpeg */; };
+		802605011F5682040048A9E7 /* MoveCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 802604FE1F5682040048A9E7 /* MoveCell.m */; };
+		802605021F5682040048A9E7 /* UIView+Frame.m in Sources */ = {isa = PBXBuildFile; fileRef = 802605001F5682040048A9E7 /* UIView+Frame.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +62,19 @@
 		802604D81F5681E60048A9E7 /* wodexneUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = wodexneUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		802604DC1F5681E60048A9E7 /* wodexneUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = wodexneUITests.m; sourceTree = "<group>"; };
 		802604DE1F5681E60048A9E7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		802604EB1F5681FA0048A9E7 /* 11.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 11.jpeg; sourceTree = "<group>"; };
+		802604EC1F5681FA0048A9E7 /* 12.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 12.jpeg; sourceTree = "<group>"; };
+		802604ED1F5681FA0048A9E7 /* 13.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 13.jpeg; sourceTree = "<group>"; };
+		802604EE1F5681FA0048A9E7 /* 14.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 14.jpeg; sourceTree = "<group>"; };
+		802604EF1F5681FA0048A9E7 /* 15.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 15.jpeg; sourceTree = "<group>"; };
+		802604F01F5681FA0048A9E7 /* 16.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 16.jpeg; sourceTree = "<group>"; };
+		802604F11F5681FA0048A9E7 /* 17.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 17.jpeg; sourceTree = "<group>"; };
+		802604F21F5681FA0048A9E7 /* 18.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 18.jpeg; sourceTree = "<group>"; };
+		802604F31F5681FA0048A9E7 /* 19.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 19.jpeg; sourceTree = "<group>"; };
+		802604FD1F5682040048A9E7 /* MoveCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MoveCell.h; sourceTree = "<group>"; };
+		802604FE1F5682040048A9E7 /* MoveCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MoveCell.m; sourceTree = "<group>"; };
+		802604FF1F5682040048A9E7 /* UIView+Frame.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+Frame.h"; sourceTree = "<group>"; };
+		802605001F5682040048A9E7 /* UIView+Frame.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+Frame.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,10 +125,15 @@
 		802604B61F5681E60048A9E7 /* wodexne */ = {
 			isa = PBXGroup;
 			children = (
+				802604EA1F5681FA0048A9E7 /* image */,
 				802604BA1F5681E60048A9E7 /* AppDelegate.h */,
 				802604BB1F5681E60048A9E7 /* AppDelegate.m */,
 				802604BD1F5681E60048A9E7 /* ViewController.h */,
 				802604BE1F5681E60048A9E7 /* ViewController.m */,
+				802604FD1F5682040048A9E7 /* MoveCell.h */,
+				802604FE1F5682040048A9E7 /* MoveCell.m */,
+				802604FF1F5682040048A9E7 /* UIView+Frame.h */,
+				802605001F5682040048A9E7 /* UIView+Frame.m */,
 				802604C01F5681E60048A9E7 /* Main.storyboard */,
 				802604C31F5681E60048A9E7 /* Assets.xcassets */,
 				802604C51F5681E60048A9E7 /* LaunchScreen.storyboard */,
@@ -138,6 +167,22 @@
 				802604DE1F5681E60048A9E7 /* Info.plist */,
 			);
 			path = wodexneUITests;
+			sourceTree = "<group>";
+		};
+		802604EA1F5681FA0048A9E7 /* image */ = {
+			isa = PBXGroup;
+			children = (
+				802604EB1F5681FA0048A9E7 /* 11.jpeg */,
+				802604EC1F5681FA0048A9E7 /* 12.jpeg */,
+				802604ED1F5681FA0048A9E7 /* 13.jpeg */,
+				802604EE1F5681FA0048A9E7 /* 14.jpeg */,
+				802604EF1F5681FA0048A9E7 /* 15.jpeg */,
+				802604F01F5681FA0048A9E7 /* 16.jpeg */,
+				802604F11F5681FA0048A9E7 /* 17.jpeg */,
+				802604F21F5681FA0048A9E7 /* 18.jpeg */,
+				802604F31F5681FA0048A9E7 /* 19.jpeg */,
+			);
+			path = image;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -207,6 +252,7 @@
 				TargetAttributes = {
 					802604B31F5681E60048A9E7 = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = Y5N22S797G;
 						ProvisioningStyle = Automatic;
 					};
 					802604CC1F5681E60048A9E7 = {
@@ -247,6 +293,15 @@
 			buildActionMask = 2147483647;
 			files = (
 				802604C71F5681E60048A9E7 /* LaunchScreen.storyboard in Resources */,
+				802604F81F5681FA0048A9E7 /* 15.jpeg in Resources */,
+				802604F41F5681FA0048A9E7 /* 11.jpeg in Resources */,
+				802604F91F5681FA0048A9E7 /* 16.jpeg in Resources */,
+				802604F51F5681FA0048A9E7 /* 12.jpeg in Resources */,
+				802604F71F5681FA0048A9E7 /* 14.jpeg in Resources */,
+				802604F61F5681FA0048A9E7 /* 13.jpeg in Resources */,
+				802604FB1F5681FA0048A9E7 /* 18.jpeg in Resources */,
+				802604FA1F5681FA0048A9E7 /* 17.jpeg in Resources */,
+				802604FC1F5681FA0048A9E7 /* 19.jpeg in Resources */,
 				802604C41F5681E60048A9E7 /* Assets.xcassets in Resources */,
 				802604C21F5681E60048A9E7 /* Main.storyboard in Resources */,
 			);
@@ -273,8 +328,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				802605011F5682040048A9E7 /* MoveCell.m in Sources */,
 				802604BF1F5681E60048A9E7 /* ViewController.m in Sources */,
 				802604BC1F5681E60048A9E7 /* AppDelegate.m in Sources */,
+				802605021F5682040048A9E7 /* UIView+Frame.m in Sources */,
 				802604B91F5681E60048A9E7 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -424,6 +481,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = Y5N22S797G;
 				INFOPLIST_FILE = wodexne/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.WYL.www.wodexne;
@@ -435,6 +493,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = Y5N22S797G;
 				INFOPLIST_FILE = wodexne/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.WYL.www.wodexne;
