@@ -1,3 +1,3 @@
-![图片说明1](https://github.com/wuyilianggit/chanel/tree/master/previewImage/1.PNG)
-![图片说明1](https://github.com/wuyilianggit/chanel/tree/master/previewImage/2.PNG)
+![图片说明1](https://raw.githubusercontent.com/wuyilianggit/chanel/master/previewImage/1.png)
+![图片说明1](https://raw.githubusercontent.com/wuyilianggit/chanel/master/previewImage/2.png)
 
